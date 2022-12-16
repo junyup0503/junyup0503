@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 :computer: Tech Stack :computer: 
 <br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js
+<img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=Nodejs
 &logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
