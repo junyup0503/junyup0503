@@ -19,8 +19,10 @@ You can click the Preview link to take a look at your changes.
 :email: Email Address :email:
   <br>
   zldwnsduq@naver.com
-  <br>
-<br><br><br><br>
+  <br><br>
+  반갑습니다. <br>
+  창의력을 무기로 빠르게 발전하는 1년차 개발자 이준엽입니다. 🙆
+<br><br><br>
   
 :zap: Tech Stack :zap:
 <br><br><br>
