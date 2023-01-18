@@ -61,6 +61,6 @@ You can click the Preview link to take a look at your changes.
   
 <br><br><br><br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyup0503&show_icons=true&bg_color=1F1F1F&title_color=6b6b6b&text_color=c2c2c2&icon_color=d90707)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyup0503&show_icons=true&bg_color=1F1F1F&title_color=6b6b6b&text_color=c2c2c2&icon_color=d90707) -->
   
 </div>
