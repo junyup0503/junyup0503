@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
   
 :cloud: SNS List :cloud:
   <br>
-  <a href="https://velog.io/@jun0503" target="_blank"><img src="https://img.shields.io/badge/Velog-95f2d7?style=flat-square&logo=velog&logoColor=white"/></a>
+  <a href="https://velog.io/@jun0503" target="_blank"><img src="https://img.shields.io/badge/Velog-22c997?style=flat-square&logo=velog&logoColor=white"/></a>
 <a href="https://www.instagram.com/__2jun/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <br><br>
 :email: Email Address :email:
