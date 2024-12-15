@@ -58,6 +58,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Amazon ECS-FF9900?style=for-the-badge&logo=Amazon ECS&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon SQS-FF4F8B?style=for-the-badge&logo=Amazon SQS&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon CodePipeline-FF4F8B?style=for-the-badge&logo=Amazon CodePipeline&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   
   
